@@ -1,0 +1,1 @@
+import{R as e}from"./element-plus-AN3Xl9Tc.js";var t={__name:`auth-redirect`,setup(t){return e(()=>{let e=window.location.search.slice(1);window.localStorage&&(window.localStorage.setItem(`x-admin-oauth-code`,e),window.close())}),(e,t)=>null}};export{t as default};

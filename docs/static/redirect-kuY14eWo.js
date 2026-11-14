@@ -1,0 +1,1 @@
+import{R as e}from"./element-plus-AN3Xl9Tc.js";import{i as t,r as n}from"./vue-router-Buf8UxmF.js";var r={__name:`index`,setup(r){let i=t(),a=n();return e(()=>{let{params:e,query:t}=a,{path:n}=e;i.replace({path:`/`+n,query:t})}),(e,t)=>null}};export{r as default};
